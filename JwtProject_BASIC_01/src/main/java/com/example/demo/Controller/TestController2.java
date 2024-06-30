@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("v1/")
-public class TestController {
+public class TestController2 {
 
 	@GetMapping("/home")
 	public String welcome()
